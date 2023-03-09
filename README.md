@@ -10,4 +10,4 @@
 
 ---
 
-- [0x00](./0x00-vagrant) : Vagrant File, Contains uname Command.
+- [0x03](./0x03-git) : git File, Contains sub folders.
