@@ -2,7 +2,7 @@
 
 # ALX Zero Day 💥
 
->Learning DevOps right now.
+>Learning Git right now.
 
 ## About
 
